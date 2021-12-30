@@ -1,5 +1,5 @@
 while True:
-    N = int(input("Enter number of stalles: "))
+    N = int(input("Enter number of stalls: "))
     if N < 0:
         print("Number must be positive!")
         continue
